@@ -1,1 +1,10 @@
-
+dependencies:
+- python = 3
+- pip:
+   - numpy
+   - scipy
+   - numpy
+   - pandas
+   - tqdm
+   - sklearn
+   - matplotlib
